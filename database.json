@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "host": "localhost",
+    "user": "root",
+    "password" : "",
+    "database": "rwanda-movie",
+    "driver": "mysql",
+    "multipleStatements": true
+  }
+}
